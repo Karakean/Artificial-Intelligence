@@ -1,0 +1,1 @@
+{"num_inputs": 9, "num_outputs": 1, "hidden_dims": [27, 82, 36], "activation_fcn": "sigmoid", "learning_rate": 0.001}
